@@ -1,5 +1,8 @@
-const stripe = require('stripe')('sk_test_51OQBiWIHoIMM5DdU1utEYQkdD6Ca9ZETR2rrRxfkQVnOWOqOVn0p7Hg8z9xV0xdZoNZAoOw4zHoVIEctDHdr1LWQ00Yw6YVHII');
+const dotenv =require('dotenv');
+dotenv.config();
 
+
+const stripe = require('stripe')(process.env.STRIPE_KEY);
 const payment = async (req, res) => {
   const { appointmentData } = req.body;
 
