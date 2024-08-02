@@ -10,13 +10,14 @@ This repository contains the backend code for the Blood Donation Management Syst
 - **API Endpoints for Donations:** Allows adding and retrieving donation information.
 - **API Endpoints for Blood Searches:** Allows searching for donors based on district, sub-district, and blood group.
 - **Data Validation:** Validates donation information before saving it to the database.
+- **Stripe Payment:** A user can online payment on this appointment in hospital.
 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/zamanmonirbu/blood-donation-backend.git
+   git clone https://github.com/zamanmonirbu/rescue-hospital-backend.git
    cd blood-donation-backend
    ```
 
