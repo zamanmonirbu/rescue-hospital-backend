@@ -1,5 +1,10 @@
-```markdown
+
+
+
 # Blood Donation Management System - Backend
+
+
+[Live Link](https://rescue-hospital-client.vercel.app) | [Front-end Code](https://github.com/zamanmonirbu/rescue-hospital-client) | [Back-end Code](https://github.com/zamanmonirbu/rescue-hospital-backend) | [Demo Video](https://www.youtube.com/watch?v=audTPrimP5g)
 
 ## Overview
 
@@ -91,15 +96,15 @@ This repository contains the backend code for the Blood Donation Management Syst
 - `dotenv` - Loads environment variables from a `.env` file.
 - `body-parser` - Middleware to parse incoming request bodies.
 
+## Connect with Me
+
+- **Email:** [monir.cse6.bu@gmail.com](mailto:monir.cse6.bu@gmail.com)
+- **GitHub:** [![GitHub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
+- **LinkedIn:** [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmoniruzzamanbu/)
+- **Codeforces:** [![Codeforces Icon](https://img.shields.io/badge/Codeforces-00FF00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ZaMo)
+- **LeetCode:** [![LeetCode Icon](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moniruzzamancse6/)
+- **Portfolio:** [![Portfolio Icon](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://moniruzzamanbu.netlify.app/)
+- **Medium:** [![Medium Icon](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zamanmonirbu)
+
 ## Contributing
-
-Contributions are welcome! Please fork the repository and submit pull requests. If you have any issues or suggestions, feel free to open an issue.
-
-## Contact
-
-For any questions or issues, please contact:
-
-- **GitHub:** [zamanmonirbu](https://github.com/zamanmonirbu)
-- **LinkedIn:** [Md Moniruzzaman Bu](https://www.linkedin.com/in/mdmoniruzzamanbu)
-- **Email:** monir.cse6.bu@gmail.com
-```
+Contributions are welcome! Please feel free to submit a Pull Request.
